@@ -1,4 +1,4 @@
-# 🏎️ Crazy Taxi Launcher Edition
+# 🏎️ Crazy Taxi Arcade PC Port v1.0
 
 Welcome to the official GitHub repository for the **Crazy Taxi (1999)** PC Porting project, targeted at the **Sega NAOMI** Arcade motherboard. 
 
@@ -15,7 +15,8 @@ To ensure a smooth execution of both the Launcher and the 3D graphics engine, yo
 *   **Processor (CPU):** Intel Core i3 / AMD Ryzen 3 (Quad-Core released after 2015) with a minimum clock speed of **2.0 GHz**.
 *   **Memory (RAM):** **4 GB** of free RAM.
 *   **Graphics Card (GPU):** NVIDIA GeForce GT 730 / AMD Radeon R7 or integrated Intel HD Graphics 500 (or higher) with native **DirectX 11** support.
-*   **Disk Space:** **2.5 GB** of available hard drive space.
+*   **Download Size:** **~170 MB** (Compressed .zip archive).
+*   **Disk Space:** **250 MB** of available hard drive space once extracted.
 
 ### 🚀 Recommended Requirements (For stable 60 FPS in High Definition)
 *   **Operating System:** Windows 11 64-bit (Versions 22H2, 23H2, or 24H2). *Optimized to fully leverage the native APIs used during compilation.*
